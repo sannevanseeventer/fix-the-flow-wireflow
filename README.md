@@ -6,7 +6,7 @@ Teken een wireflow van de belangrijkste interactie van jouw opdracht. De belangr
 <br>
 <br>
 
-<h2>Gebruiker<h2>
+<h2>Gebruiker</h2>
 De gebruikers van de test zijn voornamelijk ouders van kinderen die geinteresseerd zijn in een product van Vini Mini. 
 <br>
 <br>
@@ -14,7 +14,7 @@ De gebruikers van de test zijn voornamelijk ouders van kinderen die geinteressee
 <h2>Usergoal</h2>
 Het doorlopen van de test geeft duidelijkheid in welk product geschikt is voor het kind van de gebruiker. 
 
-<h2>Userstory<h2>
+<h2>Userstory</h2>
 Er kunnen vragen worden gesteld aan een gebruiker over zijn / haar Mini. Zo kan er een advies worden gegeven over wanneer en in welke hoeveelheid wat voor producten aan het kind kunnen worden gegeven.
 <br>
 <br>
